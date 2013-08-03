@@ -1,0 +1,9 @@
+== Description ==
+
+If you're planning on updating this theme or providing it to a client, this is a great place to store information related to the changes you've made to this folder.
+
+== Changelog ==
+
+= 1.0 =
+* Initial release.
+* Updated Base Theme with DMS specifications and tailored it for the PageLines Academy crew.

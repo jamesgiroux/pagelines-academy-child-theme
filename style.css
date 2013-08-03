@@ -1,0 +1,24 @@
+/*  
+Theme Name: PageLines Academy Child Theme
+Theme URI: http://pagelinesacademy.com
+Description: A starter child theme for PageLines DMS.  This theme is based on the PageLines Base Theme and is customized by James Giroux for PageLines Academy.
+Version: 1.0
+Author: James Giroux
+Author URI: http://jamesgiroux.ca
+Tags: developer
+
+Template: dms
+
+*/
+
+/*
+ * File Naming Conventions
+ * -------------------------------------
+ *	style.css 		 - Main theme style file.
+ *  style.less       - All CSS and LESS syntax.
+ *  thumb.png		 - Thumbnail image used in the store and on pagelines.com for your product.
+ *  screenshot.png	 - Primary screenshot, logo or graphic for your extension item (300px by 225px).
+ *	screenshot-1.png - Additional screenshots -1 -2 -3 etc (optional).
+ *	page.example.php - Custom page template, check the file for syntax. This is autoloaded.
+ *	sections/		 - Bundle sections with your theme in this folder, each section in a seperate folder.
+ */
