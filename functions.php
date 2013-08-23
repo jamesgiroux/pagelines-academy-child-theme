@@ -7,3 +7,7 @@
 require_once( dirname(__FILE__) . '/setup.php' );
 	
 // Chances are you probably won't have much to add in here but in case you're thinking about it or have a background in it, this is where you can add your hooks, actions and section calls.
+
+// Posix check
+
+add_filter( 'render_css_posix_', '__return_true' );
