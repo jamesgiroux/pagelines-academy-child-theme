@@ -10,5 +10,5 @@ require_once( dirname(__FILE__) . '/setup.php' );
 
 // Posix check
 
-add_filter( 'posix_bypass', '__return_true' );
+// add_filter( 'posix_bypass', '__return_true' );
 add_filter( 'render_css_posix_', '__return_true' );
